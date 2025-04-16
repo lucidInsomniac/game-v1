@@ -1,0 +1,39 @@
+{
+    "session": [
+        {
+            "session.no": 1,
+            "session-name":"Storm's Eye",
+            "session-location":"Slaroyew Ocean",
+            "session-active-players":3,
+            "session-inactive-players":1
+        },
+        {
+            "session.no": 2,
+            "session-name":"Surviving the Crevasse",
+            "session-location":"Galacials of Trundleforewum",
+            "session-active-players":4,
+            "session-inactive-players":0
+        },
+        {
+            "session.no": 3,
+            "session-name":"Bleeding to Death",
+            "session-location":"Swamps of Hades",
+            "session-active-players":"2",
+            "session-inactive-players":"2"
+        },
+        {
+            "session.no": 4,
+            "session-name":"Fields of Memory",
+            "session-location":"Zeroundel Plains of Pilorie",
+            "session-active-players":4,
+            "session-inactive-players":0
+        },
+        {
+            "session.no": 5,
+            "session-name":"Footbreakers",
+            "session-location":"The High Mountains of Gwiverol",
+            "session-active-players":"2",
+            "session-inactive-players":"2"
+        }
+    ]
+}
