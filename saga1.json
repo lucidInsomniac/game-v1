@@ -1,0 +1,44 @@
+{
+    "session": [
+        {
+            "session.no": 1,
+            "hero-firstname": "Eyure",
+            "hero-lastname": "The One Leg",
+            "hero-bio": "Only survivor of the devastating Putride Demons ship",
+            "hero-class": "Rogue",
+            "hero-occupation": "Sailor"
+        },
+        {
+            "session.no": 2,
+            "hero-firstname": "Fiona",
+            "hero-lastname": "Everglass",
+            "hero-bio": "Best archer in the Northern Realm",
+            "hero-class": "Ranger",
+            "hero-occupation": "Guard"
+        },
+        {
+            "session.no": 3,
+            "hero-firstname": "Durum",
+            "hero-lastname": "Guardian of Fulrum",
+            "hero-bio": "Can always be found in a tavern telling stories with a pint in his hand",
+            "hero-class": "Bard",
+            "hero-occupation": "Artisan"
+        },
+        {
+            "session.no": 4,
+            "hero-firstname": "Qelorium",
+            "hero-lastname": "The High Mage",
+            "hero-bio": "Introvert and natural habitat in the libraries",
+            "hero-class": "Wizard",
+            "hero-occupation": "Scholar"
+        },
+        {
+            "session.no": 5,
+            "hero-firstname": "Moo",
+            "hero-lastname": "The Spotted One",
+            "hero-bio": "Laying in the grass",
+            "hero-class": "Monk",
+            "hero-occupation": "Hermit"
+        }
+    ]
+}
