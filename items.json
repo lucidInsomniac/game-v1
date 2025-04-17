@@ -2,28 +2,38 @@
     "items": {
         "weapons":{
             "hand_weapons":{
-                "type": ["Slashing","Crushing"],
-                "Light Hand Weapon":[
-                    "Dagger",
-                    "Knife",
-                    "Short Sword",
-                    "Club",
-                    "Staff",
-                    "Cudgel",
-                    "Shillelagh",
-                    "Jostick",
-                    "Nunchaku",
-                    "Walking Stick", 
-                    "Wizard's Staff"
-                ],
-                "Hand Weapon":[
+                "type": {
+                    "slashing": {
+                        "light_hand_weapon":[
+                            "Dagger",
+                            "Knife",
+                            "Short Sword"
+                        ],
+                        "hand_weapon":[
+                            
+                        ]
+                    },
+                    "crushing":{
+                        "light_hand_weapon":[
+                            "Club",
+                            "Staff",
+                            "Cudgel",
+                            "Shillelagh",
+                            "Jostick",
+                            "Nunchaku",
+                            "Walking Stick", 
+                            "Wizard's Staff"
+                        ],
+                    }
+                },
+                "hand_weapon":[
                     "Sword",
                     "Axe",
                     "Rapier",
                     "Sabre",
                     "Spear",
                 ],
-                "Two-Handed Weapon":[
+                "two_handed_weapon":[
                     "Pike",
                     "Long Spear",
                     "Two Handed Sword",
