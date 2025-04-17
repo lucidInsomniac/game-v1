@@ -1,0 +1,33 @@
+{
+    "items": {
+        "weapons":{
+            "hand_weapons":{
+                "type": ["Slashing","Crushing"],
+                "Light Hand Weapon":[],
+                "Hand Weapon",
+                "Two-Handed Weapon"
+            },
+            "projectiles":["Bow","Sling"]
+        },
+        "armor":{
+            "light":"Light Armor",
+            "heavy":"Heavy Armor"
+        },
+        "shield":"shield",
+        "magic":{
+            "holy":[
+                "Resurrection Ritual",
+                "Holy Water Vial",
+                "Blessing Spell"
+            ],
+            "potions":[
+                "Potion of Healing"
+            ]
+        },
+        "misc":{
+            "heal":"Bandage",
+            "flare":"Lantern",
+            "climb":"Rope"
+        }
+    }
+}
