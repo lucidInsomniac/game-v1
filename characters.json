@@ -1,0 +1,139 @@
+"characters":[
+    {
+        "id":1,
+        "Name":"",
+        "Character_Class":"Warrior",
+        "Lvl":1,
+        "XP":0,
+        "GP":0,
+        "LP":0,
+        "Modifiers":[],
+        "Equip.":[
+            "Light Armor", 
+            "Shield", 
+            "Hand Weapon"
+        ],
+        "items":[]
+    },
+    {
+        "id":2,
+        "Name":"",
+        "Character_Class":"Cleric",
+        "Lvl":1,
+        "XP":0,
+        "GP":0,
+        "LP":0,
+        "Modifiers":[],
+        "Equip.":[
+            "Light Armor", 
+            "Shield", 
+            "Hand Weapon"
+        ],
+        "items":[],
+    },
+    {
+        "id":3,
+        "Name":"",
+        "Character_Class":"Rogue",
+        "Lvl":1,
+        "XP":0,
+        "GP":0,
+        "LP":0,
+        "Modifiers":[],
+        "Equip.":[
+            "Light Armor", 
+            "Rope", 
+            "Lock Picks",
+            "Light Hand Weapon"
+        ],
+        "items":[],
+    },
+    {
+        "id":4,
+        "Name":"",
+        "Character_Class":"Wizard",
+        "Lvl":1,
+        "XP":0,
+        "GP":0,
+        "LP":0,
+        "Modifiers":[],
+        "Equip.":[
+            "Light Hand Weapon", 
+            "Spell-book", 
+            "Writing Implements"
+        ],
+        "items":[],
+    },
+    {
+        "id":5,
+        "Name":"",
+        "Character_Class":"Barbarian",
+        "Lvl":1,
+        "XP":0,
+        "GP":0,
+        "LP":0,
+        "Modifiers":[],
+        "Equip.":[
+            "LightArmor", 
+            "Shield", 
+            "Hand Weapon"
+        ],
+        "items":[],
+    },
+    {
+        "id":6,
+        "Name":"",
+        "Character_Class":"Elf",
+        "Lvl":1,
+        "XP":0,
+        "GP":0,
+        "LP":0,
+        "Modifiers":[],
+        "Equip.":[
+            "LightArmor", 
+            "Shield", 
+            "Bow"
+        ],
+        "items":[],
+    },
+    {
+        "id":7,
+        "Name":"",
+        "Character_Class":"Dwarf",
+        "Lvl":1,
+        "XP":0,
+        "GP":0,
+        "LP":0,
+        "Modifiers":[],
+        "Equip.":[
+            {
+                "option1":[
+                    "LightArmor", 
+                    "Shield", 
+                    "Hand Weapon"
+                ],
+                "option2": [
+                    "Heavy Armor",
+                    "Two-Handed Weapon"
+                ]
+            }
+        ],
+        "items":[],
+    },
+    {
+        "id":8,
+        "Name":"",
+        "Character_Class":"Halfling",
+        "Lvl":1,
+        "XP":0,
+        "GP":0,
+        "LP":0,
+        "Modifiers":[],
+        "Equip.":[
+            "Lots of Snacks", 
+            "Sling",
+            "Light Hand Weapon"
+        ],
+        "items":[],
+    },
+]
