@@ -3,9 +3,34 @@
         "weapons":{
             "hand_weapons":{
                 "type": ["Slashing","Crushing"],
-                "Light Hand Weapon":[],
-                "Hand Weapon",
-                "Two-Handed Weapon"
+                "Light Hand Weapon":[
+                    "Dagger,
+                    "Knife",
+                    "Short Sword",
+                    "Club",
+                    "Staff",
+                    "Cudgel",
+                    "Shillelagh",
+                    "Jostick",
+                    "Nunchaku",
+                    "Walking Stick", 
+                    "Wizard's Staff"
+                ],
+                "Hand Weapon":[
+                    "Sword",
+                    "Axe",
+                    "Rapier",
+                    "Sabre",
+                    "Spear",
+                ],
+                "Two-Handed Weapon":[
+                    "Pike",
+                    "Long Spear",
+                    "Two Handed Sword",
+                    "Halberd",
+                    "Naginata",
+                    "Gaive",
+                ],
             },
             "projectiles":["Bow","Sling"]
         },
